@@ -18,7 +18,7 @@ Tal y como se describe en el artículo de Eufonía, este ejercicio consiste en l
 [![descargar](/imagenes/Screenshot_2.png)](https://scratch.mit.edu/projects/621475891)
 
 
-## Actividad para la etapa de primaria
+## Actividad para la etapa de Secundaria
 
 Tal y como se describe en el artículo también, aquí hay una serie de ritmos euclidianos programados en Scratch. Pulsa en "ver dentro" para acceder al código. Los ritmos que se han programado se pueden escuchar pulsando las teclas adecuadas. 
 
